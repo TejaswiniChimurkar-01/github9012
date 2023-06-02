@@ -1,6 +1,6 @@
 Adding first line of code -- changes being done from github
 
-Ading new feature
+Ading new feature - from github
 
 adding condition to the feature
 addition condition 1 to the feature
